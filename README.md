@@ -8,6 +8,8 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 
 ---
 
+<table><tr><td valign="top" width="50%">
+
 ## About Me
 + 🔭 I’m currently studying in the University of Bristol
 + 🌱 I’m currently learning back-end development
@@ -15,6 +17,12 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 + 😬 Im passionate about coding and have been developing my skill
 + 💬 Ask me about Java, MySQL and back-end development
 + 📫 How to reach me: gjz0117@qq.com
+
+</td><td valign="top" width="50%">
+
+![Metrics](/github-metrics.svg)
+
+</td></tr></table> 
 
 ---
 

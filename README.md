@@ -4,6 +4,8 @@
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg) Visitor !
 
+![](https://github.com/GJZ0117/GJZ0117/blob/main/assets/github-snake.svg)
+
 ---
 
 ## About Me

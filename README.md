@@ -8,15 +8,26 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 
 ---
 
+## About Me
+
 <table><tr><td valign="top" width="50%">
 
-## About Me
+</br>
+
 + 🔭 I’m currently studying in the University of Bristol
 + 🌱 I’m currently learning back-end development
 + 🤔 I love Reading, Working Out, Football, Photography, Movie
-+ 😬 Im passionate about coding and have been developing my skill
++ 😬 Im passionate about coding and have been developing my skills
 + 💬 Ask me about Java, MySQL and back-end development
 + 📫 How to reach me: gjz0117@qq.com
+
+</br>
+
+*I'm a programmer, ordinary but with a little bit of ambition, desire to make a difference in the world.*
+
+</br>
+
+*我是程序员，平凡有一点理想，渴望让世界不一样。*
 
 </td><td valign="top" width="50%">
 
@@ -25,11 +36,6 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 </td></tr></table> 
 
 ---
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GJZ0117&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -92,5 +98,9 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
   <img src="https://img.shields.io/badge/Bootstrap-grey" />
   <img src="https://img.shields.io/badge/Axios-blue" />
 </span>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GJZ0117&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---

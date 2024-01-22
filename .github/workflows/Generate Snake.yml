@@ -24,7 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           base: ""
-          filename: assets/metrics.plugin.isocalendar.svg
+          filename: assets/metrics.svg
           token: ${{ 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 }}
           plugin_isocalendar: yes
   

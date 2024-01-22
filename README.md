@@ -23,11 +23,11 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 
 </br>
 
-*I'm a programmer, ordinary but with a little bit of ambition, desire to make a difference in the world.*
+***I'm a programmer, ordinary but with a little bit of ambition, desire to make a difference in the world.***
 
 </br>
 
-*我是程序员，平凡有一点理想，渴望让世界不一样。*
+***我是程序员，平凡有一点理想，渴望让世界不一样。***
 
 </td><td valign="top" width="50%">
 

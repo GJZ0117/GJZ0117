@@ -16,8 +16,8 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 
 + 🔭 I’m currently studying in the University of Bristol
 + 🌱 I’m currently learning back-end development
-+ 🤔 I love Reading, Working Out, Football, Photography, Movie
-+ 😬 Im passionate about coding and have been developing my skills
++ 🤔 I love reading, working out, football, photography and movie
++ 😬 I'm passionate about coding and have been developing my skills
 + 💬 Ask me about Java, MySQL and back-end development
 + 📫 How to reach me: gjz0117@qq.com
 

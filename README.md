@@ -2,8 +2,6 @@
 
 ---
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg) Visitor !
-
 ![](https://github.com/GJZ0117/GJZ0117/blob/main/assets/github-snake.svg)
 
 ---
@@ -19,7 +17,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/GJZ0117/count.svg
 + 🤔 I love reading, working out, football, photography and movie
 + 😬 I'm passionate about coding and have been developing my skills
 + 💬 Ask me about Java, MySQL and back-end development
-+ 📫 How to reach me: gjz0117@qq.com
++ 📫 How to reach me: gjz0117@163.com
 
 </br>
 

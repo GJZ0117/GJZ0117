@@ -1,22 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=6000&pause=2000&center=true&random=false&width=1000&height=80&lines=System.out.println(%22Hello+World!%22);Welcome+to+My+Github+Homepage!)](https://git.io/typing-svg)
 
----
-
-![](https://github.com/GJZ0117/GJZ0117/blob/main/assets/github-snake.svg)
-
----
-
 ## About Me
 
 <table><tr><td valign="top" width="50%">
 
 </br>
 
-+ 🔭 I’m currently studying in the University of Bristol
-+ 🌱 I’m currently learning back-end development
++ 🔭 I graduated from Jilin University in China and the University of Bristol in the UK.
++ 🌱 I am currently working in backend development at a financial company.
 + 🤔 I love reading, working out, football, photography and movie
 + 😬 I'm passionate about coding and have been developing my skills
-+ 💬 Ask me about Java, MySQL and back-end development
 + 📫 How to reach me: gjz0117@163.com
 
 </br>
@@ -36,7 +29,10 @@
 ---
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
   
 ### Frontend  
 <div align="center">  
@@ -46,7 +42,10 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+</td>
+
+
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">
@@ -59,7 +58,9 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+</td>
+
+<td valign="top" width="34%">
   
 ### DevOps  
 <div align="center">  
@@ -80,9 +81,10 @@
   <img src="https://img.shields.io/badge/MySQL-blue" />
   <img src="https://img.shields.io/badge/Mybatis-grey" /> 
   <img src="https://img.shields.io/badge/Spring-green" />
-  <img src="https://img.shields.io/badge/Spring MVC-green" />
   <img src="https://img.shields.io/badge/Spring Boot-green" />
   <img src="https://img.shields.io/badge/Spring Cloud-green" />
+  <img src="https://img.shields.io/badge/Langchain4j-orange" />
+  <img src="https://img.shields.io/badge/RAG-grey" />
   <img src="https://img.shields.io/badge/RPC-blue" />
   <img src="https://img.shields.io/badge/Junit-black" />
   <img src="https://img.shields.io/badge/JUC-orange" />
@@ -90,13 +92,11 @@
   <img src="https://img.shields.io/badge/Redis-red" />
   <img src="https://img.shields.io/badge/RabbitMQ-orange" />
   <img src="https://img.shields.io/badge/Maven-green" />
-  <img src="https://img.shields.io/badge/NIO-red" />
   <img src="https://img.shields.io/badge/Cloud Computing-blue" />
   <img src="https://img.shields.io/badge/Git-grey" />
   <img src="https://img.shields.io/badge/Nginx-green" />
   <img src="https://img.shields.io/badge/Docker-blue" />
   <img src="https://img.shields.io/badge/OSS-black" />
-  <img src="https://img.shields.io/badge/XML-red" />
   <img src="https://img.shields.io/badge/HTML-green" />
   <img src="https://img.shields.io/badge/CSS-orange" />
   <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -104,9 +104,3 @@
   <img src="https://img.shields.io/badge/Bootstrap-grey" />
   <img src="https://img.shields.io/badge/Axios-blue" />
 </span>
-
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GJZ0117&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----

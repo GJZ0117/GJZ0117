@@ -7,7 +7,7 @@
 </br>
 
 + 🔭 I graduated from Jilin University in China and the University of Bristol in the UK.
-+ 🌱 I am currently working in backend development at a financial company.
++ 🌱 I am currently working in backend development and AI agent at a financial company.
 + 🤔 I love reading, working out, football and movie
 + 😬 I'm passionate about coding and have been developing my skills
 + 📫 How to reach me: gjz0117@163.com
